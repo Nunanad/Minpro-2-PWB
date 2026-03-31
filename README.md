@@ -48,7 +48,7 @@ Tabel utama:
 
 ## 🚀 Cara Menjalankan Project
 
-1. Jalankan **Laragon / XAMPP**
+1. Jalankan **Laragon**
 2. Import database ke **phpMyAdmin**
 3. Letakkan folder project di:
 
